@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/beautyeye_lnf.jar"/>
+	<classpathentry kind="lib" path="lib/liquidlnf.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.12.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
